@@ -1,4 +1,4 @@
-# OpenAI, ChatGPT, Crewe AI Assistant
+# OpenAI, ChatGPT, Crewe AI Assistant plugin
 from itertools import permutations
 
 # Define the initial state of the cans
