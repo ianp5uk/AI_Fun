@@ -1,5 +1,5 @@
 # The can problem
-This was a maths problem set at a school. Not hard but it took me 10 mins to see the solution. I wanted to see how an LLM would do.
+This was a maths problem set at a school. Not hard but it took me 10 mins to see the solution. I wanted to see how an LLM would do. They were given the image and my prompt not the question posed to the kids.
   
  ![The cans](cans.png)
   
