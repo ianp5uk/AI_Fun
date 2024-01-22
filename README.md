@@ -16,5 +16,5 @@ Prompt:
 
 Result:  
 ChatGPT 4 got it right using the "Crewe AI Assistant" variant, I think it's correct having only tried a couple of tests.
-I provided a few more prompts but only to get it to format the answer how I wanted. I also tried Bard, Copilot and CodeLlama. They failed consistently even after adjusting the prompt several times.
+I ended up adding a bit to format the answer how I wanted, that bit failed with prompts but it coded the literal answer correctly. I also tried Bard, Copilot and CodeLlama. They failed consistently even after adjusting the prompt several times.
  
